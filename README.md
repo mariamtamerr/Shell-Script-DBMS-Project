@@ -31,5 +31,6 @@ sudo chmod +x FinalVersion.sh
 
 ## then run the script file by writing this : 
 
+```shell
  ./FinalVersion.sh 
  
