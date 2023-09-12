@@ -21,11 +21,11 @@ Main Menu:
 - Delete From Table
 - Update Table
 
-## Hints:
-- The Database will store as Directory on Current Script File
-- The Select of Rows displayed in screen/terminal in  an Accepted/Good Format
-- Ask about columns datatypes in create table and check on them in both insert and update
--Ask about primary key in create table and check for it in the insert into table
+## To open the project, go to your Linux terminal, and cd to the path where the file is, and make the script file executable by writing this :  
 
-## The Bonus:
-- Make the App to accept SQL Code or  Use GUI instead of the above menu based 
+ <div style="background-color: #FFFF00">sudo chmod +x FinalVersion.sh </div>
+      
+
+## then run the script file by writing this : 
+
+ ./FinalVersion.sh 
