@@ -23,7 +23,10 @@ Main Menu:
 
 ## To open the project, go to your Linux terminal, and cd to the path where the file is, and make the script file executable by writing this :  
 
- <div style="background-color: #FFFF00">sudo chmod +x FinalVersion.sh </div>
+```shell
+sudo chmod +x FinalVersion.sh
+```
+
       
 
 ## then run the script file by writing this : 
